@@ -10,6 +10,7 @@ Git is a version control tool, used to keep the history of changes, and make col
 
 Each week, you're going to use Git to get a copy of your homework exercises, to submit your solutions, and to get feedback on your solutions. Today, you're going to learn how to do these things.
 
-| Week                  | Content                 | Homework                   |
-| --------------------- | ----------------------- | -------------------------- |
-| [Week 1](./index.md) | Github & Github Desktop | [Git Homework](./homework) |
+| Week                    | Content                 | Homework                   |
+| ----------------------- | ----------------------- | -------------------------- |
+| [Week 1](./index.md)    | Github & Github Desktop | [Git Homework](./homework) |
+| [Week 2](./branches.md) | Branches                | |

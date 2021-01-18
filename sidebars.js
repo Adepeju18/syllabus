@@ -16,6 +16,7 @@ module.exports = {
   Git: {
     Overview: ["git/overview", "git/preparation", "git/cheatsheet"],
     "Lesson 1": ["git/index", "git/homework", "git/instructors"],
+    "Lesson 2": ["git/branches"],
   },
   HTMLCSS: {
     Overview: ["html-css/index"],
